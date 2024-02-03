@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(fern.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #1a9cbc;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
